@@ -1,5 +1,7 @@
 #!/usr/bin/python2.7
 
+# Verified using FakeSMTP (http://nilhcem.github.com/FakeSMTP/)
+
 import socket
 
 s = socket.socket()
